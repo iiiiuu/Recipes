@@ -47,7 +47,7 @@ If **npm** is not yet installed on your system, follow these steps:
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/iiiuu/Resipes.git
+git clone https://github.com/iiiiuu/Recipes.git
 cd Recipes
 ```
 
